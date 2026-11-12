@@ -1,0 +1,4 @@
+order_id,person_id,order_date,status,total_amount,currency,payment_method,shipping_method,notes
+1,100,2021-03-15,Delivered,abc,USD,paypal,standard,
+2,101,2021-03-16,Delivered,24.99,USD,paypal
+3,102,2021-03-17,Delivered,not_a_number,EUR,klarna,express,

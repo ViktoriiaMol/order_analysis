@@ -1,0 +1,4 @@
+2026-11-10 16:18:33,908 ERROR Файл order_broken.csv пропущен: ValueError: Unable to parse string "abc" at position 0
+2026-11-10 16:18:33,909 ERROR Файл order_empty.csv пропущен: EmptyDataError: No columns to parse from file
+2026-11-12 12:43:59,224 ERROR Файл order_broken.csv пропущен: ValueError: Unable to parse string 'abc' at position 0
+2026-11-12 12:43:59,226 ERROR Файл order_empty.csv пропущен: EmptyDataError: No columns to parse from file
